@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tribute to Ate Pam</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em;
+        }
+
+        main {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            margin-bottom: 15px;
+        }
+
+        h1, h2 {
+            color: #333;
+        }
+
+        p {
+            line-height: 1.6;
+            margin-bottom: 15px;
+        }
+
+        ul {
+            list-style-type: square;
+            margin-bottom: 20px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #333;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Tribute to Ate Pam</h1>
+    </header>
+
+    <main>
+        <img src="/Users/raphaelhimself/自作の原神ブログWEBサイト/navia.JPG" alt="Genshin's Navia Image">
+        <h2>Introduction</h2>
+        <p>
+            Allow me to introduce you to Ate Pam, a remarkable individual and my beloved cousin residing in the vibrant city of Malabon. Despite facing the challenges of throat cancer, Ate Pam continues to exemplify resilience and positivity. Currently engaged in her professional pursuits, she not only confronts life's adversities with courage but also maintains an unwavering cheerful personality that brightens the lives of those around her.
+        </p>
+
+        <h2>Achievements</h2>
+        <p>
+            Despite the challenges she faces, Ate Pam has achieved notable milestones in her personal and professional life. Her dedication to her work and her determination to overcome obstacles serve as an inspiration to all who know her. Ate Pam's resilience shines through in every accomplishment, making her a source of pride for our family and a role model for others.
+        </p>
+        <img src="/Users/raphaelhimself/Downloads/ate_pam3.jpg"alt="Ate pam image 3">
+        <h2>Qualities</h2>
+        <p>
+            Ate Pam's cheerful personality is contagious, creating a positive atmosphere wherever she goes. Her kindness and generosity know no bounds, and she is always ready to lend a helping hand to those in need. Her unwavering optimism in the face of adversity illuminates the lives of everyone around her, making her a beacon of hope and strength.
+        </p>
+
+        <h2>Impact</h2>
+        <p>
+            Ate Pam's impact extends beyond her immediate circle. Her willingness to help others, coupled with her infectious positivity, has touched the hearts of many. She has become a source of inspiration for those facing their own challenges. Through her journey, Ate Pam has not only demonstrated resilience but also the transformative power of a positive attitude.
+        </p>
+
+        <ul>
+            <li>Love</li>
+            <li>Kindness</li>
+            <li>Openness</li>
+        </ul>
+
+        <img src="/Users/raphaelhimself/Downloads/ate_pam2.jpg" alt="Ate Pam Image 2">
+        <h2>Conclusion</h2>
+        <p>
+            In conclusion, this tribute is a celebration of Ate Pam's indomitable spirit, her achievements, and the positive influence she has had on everyone fortunate enough to know her. Ate Pam's journey is a testament to the strength of the human spirit and the ability to find joy and purpose even in the face of adversity. As we honor Ate Pam, let us be reminded of the enduring power of optimism, compassion, and the profound impact one individual can have on the lives of others.
+        </p>
+    </main>
+
+    <footer>
+        <p>Created by Raphael Antonio G. Antonio | &copy; 2024</p>
+        <p>External Link to learn how to make this webpage: <a href="https://www.w3schools.com" target="_blank">w3schools.com</a></p>
+    </footer>
+
+</body>
+</html>
